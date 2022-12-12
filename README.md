@@ -1,9 +1,8 @@
 # Project Title
 
 ## 1. Project Description
-State your app in a nutshell here
+State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
 This browser based web application to ... 
-
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
@@ -11,21 +10,21 @@ List team members and/or short bio's here...
 * ...
 * ...
 	
-## 3. Technologies Used
-List technologies, API's and other resources that we used here: 
-* HTML, CSS
-* JavaScript
-* Bootstrap 5.0
+## 3. Technologies and Resources Used
+List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.
+* HTML, CSS, JavaScript
+* Bootstrap 5.0 (Frontend library)
+* Firebase 8.0 (BAAS - Backend as a Service)
 * ...
 
 ## 4. Complete setup/installion/usage
-State what a user needs to do when they come to your project...
+State what a user needs to do when they come to your project.  How do others start using your code or application?
 Here are the steps ...
 * ...
 * ...
 * ...
 
-## 5. Known Bugs
+## 5. Known Bugs and Limitations
 Here are some known bugs:
 * ...
 * ...
@@ -55,8 +54,6 @@ It has the following subfolders and files:
 ├── styles                   # Folder for styles
     /blah.css                # 
 
-Firebase hosting files: 
-├── .firebaserc...
 
 
 ```
